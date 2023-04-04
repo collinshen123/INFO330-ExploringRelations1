@@ -1,0 +1,1 @@
+select first_name, city from persons where city = 'Omaha'
