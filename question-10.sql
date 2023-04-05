@@ -1,0 +1,1 @@
+insert into persons (first_name, last_name, email, gender, title, age, address, city, state, postalcode, phone) values ("Collin", "Shen", "cshen123@uw.edu", "Male", "Mr.", 19, 12345, "bothell", "WA", 98000, 1800);

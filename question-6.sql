@@ -1,1 +1,1 @@
-select distinct substr(email, instr(email, '@')) from persons;
+select distinct substr(email, instr(email, '@')+1) from persons;
