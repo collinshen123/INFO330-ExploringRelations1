@@ -1,1 +1,1 @@
-select first_name, city from persons where city = 'Omaha'
+select first_name from persons where city = 'Omaha'
