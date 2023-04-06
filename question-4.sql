@@ -1,1 +1,1 @@
-select first_name, last_name, age from persons order by age;
+select first_name, last_name from persons order by age;
